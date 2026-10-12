@@ -1,0 +1,46 @@
+python.version	3.13.7
+math.pi	3.141592653589793
+math.sin(0.5)	0.479425538604203
+math.floor(3.7)	3
+math.hypot(3,4)	5.0
+eval.int	42
+list.to_a	[3, 1, 2]
+list.sort!	[1, 2, 3]
+list.push	[1, 2, 3, 99]
+list.include?	true
+list.len	4
+dict.get	1
+dict.missing	
+dict.has_key?	true
+dict.length	2
+dict.to_h	a=1;b=2
+dict.delete	2
+tuple.to_a	[1, 2, 3]
+pycall.tuple	[4, 5]
+set.size	2
+set.include?	true
+fraction.add	1/2
+fraction.mul	1/18
+fraction.sub	1/6
+fraction.div	2
+fraction.gt	true
+fraction.eq	true
+str.mul	abcabcabc
+str.to_i	42
+str.to_f	2.5
+repr	[1, 'x']
+setattr	123
+hasattr?	true
+callable?.func	true
+callable?.int	false
+kwargs.round	2.57
+callback.sorted	[1, -2, 3, -5]
+with.enter	entered
+error.type	<class 'ZeroDivisionError'>
+iterable	[10, 20]
+range.slice	[2, 3, 4]
+conv.array	[1, 2, 3]
+conv.hash	a=1;b=2
+pyimport.sin	0.8414709848078965
+pyfrom.pi	3.141592653589793
+same?	true

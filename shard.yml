@@ -1,0 +1,10 @@
+name: pycall_cr
+version: 0.1.0
+crystal: ">= 1.21.0"
+description: |
+  Порт гема pycall (mrkn/pycall) на Crystal: вызов Python из Crystal
+  поверх CPython C API (libpython). Список фич — 1-в-1 с оригиналом
+  (см. PLAN.md). Требует libpython3.13 в системе.
+
+authors:
+  - oleg
